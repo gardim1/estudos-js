@@ -10,4 +10,6 @@ const exibeNome = (nome) => nome;
 
 console.log(estudanteReprovou(6, 5));
 console.log(estudanteReprovou(10, 2));
+console.log(estudanteReprovou(9, 6));
 console.log("Caroline");
+
