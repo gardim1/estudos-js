@@ -1,0 +1,2 @@
+const salaJS = [];
+const salaPython = [];
