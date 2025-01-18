@@ -1,1 +1,1 @@
-### Meus estudos JavaScript e Node.jsa
+### Meus estudos JavaScript e Node.js
